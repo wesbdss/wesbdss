@@ -11,32 +11,9 @@ print("Olá meu nome é Wesley")
 print(Wesley.infos())
 ```
 ### "Sou programador Full Stack Junior (Python/Javascript)"
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="100" height="100"></img>
-#
-> Django
-#
-> Flask
-#
-> Interfaces
-#
-> Inteligência Artificial
-#
-> Docker
-#
-> ...
-#
-<img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="100" height="100"></img>
-#
-> ReactJs
-#
-> React Native
-#
-> NodeJs
-#
-> Database
-#
-> ...
-#
+<img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"></img>
+
+<img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"></img>
 
 ```python
 print(Wesley.interesses())
