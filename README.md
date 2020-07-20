@@ -11,9 +11,7 @@ print("Olá meu nome é Wesley")
 print(Wesley.infos())
 ```
 ### "Sou programador Full Stack Junior (Python/Javascript)"
-<img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"></img>
-
-<img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"></img>
+<img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"></img><img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"></img>
 
 ```python
 print(Wesley.interesses())
