@@ -12,18 +12,31 @@ print(Wesley.infos())
 ```
 ### "Sou programador Full Stack Junior (Python/Javascript)"
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="100" height="100"></img>
+#
 > Django
+#
 > Flask
+#
 > Interfaces
+#
 > Inteligência Artificial
+#
 > Docker
- - ...
-<img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="100" height="100"></img>
-> ReactJs
->  React Nativa
-> NodeJs
-> Database
+#
 > ...
+#
+<img src="https://icons-for-free.com/iconfiles/png/512/install+javascript+js+node+npm+tools+icon-1320165731324625592.png" width="100" height="100"></img>
+#
+> ReactJs
+#
+> React Native
+#
+> NodeJs
+#
+> Database
+#
+> ...
+#
 
 ```python
 print(Wesley.interesses())
