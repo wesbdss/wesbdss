@@ -1,5 +1,16 @@
-### Olá meu consagrado!! 😎 👍
+### GET: Olá meu consagrado!! 😎 👍
+<button/>
 ### Bem vindo ao meu GITHUB
+
+Meu nome é Wesley 
+
+# Página Pessoal
+
+https://wesbdss.github.io
+
+# Sou programador Full Stack Junior;
+# Atualmente me aprofundando em Inteligência Artificial;
+# 
 
 
 
