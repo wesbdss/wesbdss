@@ -35,9 +35,4 @@ print(Wesley.contatos())
 
 Se quiser fazer parte de algum projeto, mande seu pull request ou me contate. E vamos tomar café e codar!!
 
-
-
-
-
-
-(sinceramente, o neston#0051 acha o wesley muito gostoso)
+<html><canvas></canvas</html>
