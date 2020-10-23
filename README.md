@@ -35,4 +35,4 @@ print(Wesley.contatos())
 
 Se quiser fazer parte de algum projeto, mande seu pull request ou me contate. E vamos tomar café e codar!!
 
-<html><canvas></canvas</html>
+<html><canvas style="width:200px; heigth:200px;background-color:black;"></canvas</html>
