@@ -1,38 +1,60 @@
-# Perfil: |FAILED! NOT IMPORT| 😎 👍
 
-```python
-from users/wesbdss import Wesley
-print("Olá meu nome é Wesley")
-```
-#
-<h1 style="background-color:blue"> "Olá meu nome é Wesley"</h1>
-#
-```python
-print(Wesley.infos())
-```
-### "Sou programador Full Stack Junior (Python/Javascript)"
-<img src="https://media2.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100" height="100"></img><img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100" height="100"></img>
+<div>
+<br>
 
-```python
-print(Wesley.interesses())
-```
+<h1 align="center">
+Olá, meu nome é Wesley!
+</p>
 
-> "Atualmente me aprofundando em Inteligência Artificial"
 
-> "Mostrar o diferencial"
+<p align="center">
+    Sou desenvolvedor Mobile, Web, Backend & Infra.
+</p>
 
-> "Estudar novas tecnologias"
 
-```python
-print(Wesley.contatos())
-```
-# Página Pessoal
-> https://wesbdss.github.io
-# Linkedin
-> https://www.linkedin.com/wesbdss
-# Email
-> wesleybenicio4@gmail.com
 
-Se quiser fazer parte de algum projeto, mande seu pull request ou me contate. E vamos tomar café e codar!!
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=wesbdss&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
 
-<html><canvas style="width:200px; heigth:200px;background-color:black;"></canvas</html>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesbdss&theme=radical"
+    />
+  </a>
+</p>
+<p align="center">Se quiser conhecer mais sobre o meu trabalho, entre em contato:</p>
+<p align="center">
+
+  <a href="https://github.com/wesbdss">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wesbdss"
+    />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/wesbdss/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesbdss/"
+    />
+  </a>
+</p>
+<br>
+</div>
+
+
+
+
+
+
+
+
