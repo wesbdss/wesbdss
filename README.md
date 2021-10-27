@@ -11,14 +11,11 @@ Olá, meu nome é Wesley!
     Sou desenvolvedor Mobile, Web, Backend & Infra.
 </p>
 
-
-
-
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
+      height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesbdss&theme=radical"
     />
      <img
@@ -49,11 +46,3 @@ Olá, meu nome é Wesley!
 </div>
 
 <input value="teste"/>
-
-
-
-
-
-
-
-
